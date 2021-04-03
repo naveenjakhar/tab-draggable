@@ -1,0 +1,20 @@
+{
+  "name": "tab-by-naveen",
+  "description": "by naveen jakhar (7009851021) naveen.jakhar11602376@gmail.com",
+  "version": "0.0.0",
+  "dependencies": {
+    "react": "15.6.1",
+    "react-dom": "15.6.1",
+    "react-draggable-tabs": "1.0.6"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+  
+}
